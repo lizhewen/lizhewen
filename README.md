@@ -30,7 +30,7 @@ My undergraduate thesis, advised by [Dr. Maciej Boni](https://mol.ax), was on co
 
 My senior capstone project, advised by [Dr. Igor Aronson](https://sites.psu.edu/iaronson/) and Dr. Nuris Figueroa-Morales, was on an Intelligent Microfluidic Cell Sorter, where I developed a Convolutional Neural Network to recognize different microbead sizes passing through the bifurcation channel.
 
-In summer 2019, I researched on E-Learning technology with [Dr. Wei-Fan Chen](http://www.personal.psu.edu/wuc100/) and investigated human-centered motivator module with Machine Learning to facilitate E-Learning process. [The restuts](https://www.learntechlib.org/primary/p/211160/) were later presented at E-Learn Conference by Association for the Advancement of Computing in Education (AACE).
+In summer 2019, I researched on E-Learning technology with [Dr. Wei-Fan Chen](http://www.personal.psu.edu/wuc100/) and investigated human-centered motivator module with Machine Learning to facilitate E-Learning process. [The results](https://www.learntechlib.org/primary/p/211160/) were later presented at E-Learn Conference by Association for the Advancement of Computing in Education (AACE).
 
 > **Li, E.Z.** & Chen, W.F. (2019). Investigating Human-Centered Learning Management Systems: A Critical Review. In S. Carliner (Ed.), *Proceedings of E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education* (pp. 833-837). New Orleans, Louisiana, United States: Association for the Advancement of Computing in Education (AACE).
 
