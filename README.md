@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I am currently an Information Science Master student at [Cornell Tech](https://tech.cornell.edu/) with a concentration in Health Tech. I graduated from [Penn State University](https://www.psu.edu/) with a Bachelor degree in Computer Science. My interests include Machine Learning, Data Analytics, and User-Centered Software Development.
+I am currently an Information Science master's student at [Cornell Tech](https://tech.cornell.edu/) with a concentration in Health Tech. I graduated from [Penn State](https://www.psu.edu/) with a Bachelor degree in Computer Science. My interests include Machine Learning, Data Analytics, and User-Centered Software Development.
 
 I am passionate about not only building new technologies, but also adjusting them to better fit into actual users' needs.
 
@@ -26,7 +26,9 @@ In addition, I am interested in IT Infrastructure Management and Development. I 
 
 ## 🔬 Research
 
-My undergraduate thesis, advised by [Dr. Maciej Boni](https://mol.ax), was on computational epidemiology, and focuses on Multiple-Drug-Resistance Emergence of Malaria under Multiple First-line Therapy. More information about this project can be found [on Github](https://github.com/lizhewen/PSU-CIDD-Malaria-Simulation).
+My master's thesis, advised by [Dr. Yifan Peng](https://penglab.weill.cornell.edu/), will be focusing on Deep Learning and its applications in health, specifically focusing on using DL to detect glaucoma on fundus photographs.
+
+My undergraduate thesis, advised by [Dr. Maciej Boni](https://mol.ax), is on computational epidemiology, and focuses on Multiple-Drug-Resistance Emergence of Malaria under Multiple First-line Therapy. More information about this project can be found [on Github](https://github.com/lizhewen/PSU-CIDD-Malaria-Simulation).
 
 My senior capstone project, advised by [Dr. Igor Aronson](https://sites.psu.edu/iaronson/) and Dr. Nuris Figueroa-Morales, was on an Intelligent Microfluidic Cell Sorter, where I developed a Convolutional Neural Network to recognize different microbead sizes passing through the bifurcation channel.
 
@@ -45,7 +47,7 @@ In summer 2019, I researched on E-Learning technology with [Dr. Wei-Fan Chen](ht
 
 ## 🏫 Education
 
-- **Cornell Tech / Cornell University**, Class of May 2022
+- **Cornell Tech, Cornell University**, Class of May 2022
   - M.S., Information Science, concentration in Health Tech
   - M.S., Information Science (Technion), concentration in Computer Science
 - **The Pennsylvania State University**, Class of May 2020
