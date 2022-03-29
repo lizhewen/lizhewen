@@ -1,7 +1,7 @@
 ## 👋 Hello World
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhewenli/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zhewenli)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thezhewenli/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thezhewenli/)
 
 I'm a technology enthusiast based in NYC. I'm currently pursuing master's degrees from [Cornell Tech](https://tech.cornell.edu/) of Cornell University and Technion via [Jacobs Institute](https://tech.cornell.edu/jacobs-technion-cornell-institute/). I hold a Bachelor degree in Computer Science from [Penn State University](https://www.psu.edu/). My interests include Machine Learning, Data Visualizations, and User-Centered Software Development.
 
