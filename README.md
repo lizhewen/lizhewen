@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thezhewenli/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thezhewenli/)
 
-I'm a technology enthusiast based in NYC. I'm currently pursuing master's degrees from [Cornell Tech](https://tech.cornell.edu/) of Cornell University and Technion via [Jacobs Institute](https://tech.cornell.edu/jacobs-technion-cornell-institute/). I hold a Bachelor degree in Computer Science from [Penn State University](https://www.psu.edu/). My interests include Machine Learning, Data Visualizations, and User-Centered Software Development.
+I'm a technology enthusiast based in Seattle. I received my master's degrees from [Cornell Tech](https://tech.cornell.edu/) of Cornell University and Technion via [Jacobs Institute](https://tech.cornell.edu/jacobs-technion-cornell-institute/). I hold a Bachelor degree in Computer Science from [Penn State University](https://www.psu.edu/). My interests include Machine Learning, Data Visualizations, and User-Centered Software Development.
 
 > *Technology alone is not enough, it's technology married with liberal arts married with humanities that makes our heart sing.*
 
@@ -11,6 +11,7 @@ I'm a technology enthusiast based in NYC. I'm currently pursuing master's degree
 
 - Deep learning application in primary open-angle glaucoma detection, prediction, and analysis. [Master's thesis](DL_Glaucoma_Report.pdf), advised by [Dr. Yifan Peng](https://penglab.weill.cornell.edu/).
 - Modeling emergence patterns of double- and triple-resistant genotypes of *Plasmodium falciparum*. Bachelor's thesis, advised by [Dr. Maciej Boni](https://www.huck.psu.edu/people/maciej-f-boni).
+  - > **Li, E. Z.**, Nguyen, T. D., Tran, T. N.-A., Zupko, R. J., &amp; Boni, M. F. (2022, June 1). Assessing emergence risk of double-resistant and triple-resistant genotypes of Plasmodium falciparum. bioRxiv. Retrieved September 6, 2022, from https://www.biorxiv.org/content/10.1101/2022.05.31.494246v1 
 - Intelligent microfluidic cell sorter with Convolutional Neural Network. [Undergraduate capstone project](BME_Poster.pdf), advised by [Dr. Igor Aronson](https://sites.psu.edu/iaronson/).
 - Human-centered motivator module with Machine Learning to facilitate E-Learning process. [Research paper](https://www.learntechlib.org/primary/p/211160/), advised by [Dr. Wei-Fan Chen](http://www.personal.psu.edu/wuc100/).
   - > **Li, E.Z.** & Chen, W.F. (2019). Investigating Human-Centered Learning Management Systems: A Critical Review. In S. Carliner (Ed.), *Proceedings of E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education* (pp. 833-837). New Orleans, Louisiana, United States: Association for the Advancement of Computing in Education (AACE).
